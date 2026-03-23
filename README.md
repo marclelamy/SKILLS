@@ -37,3 +37,4 @@ npx skills update -g
 
 - Project-specific skills (like `gitnexus-*`) are not stored here. They live in their respective project repos under `.claude/skills/`.
 - The `--full-depth` flag is required because skills are nested inside `custom/` and `community/` subdirectories.
+# SKILLS
