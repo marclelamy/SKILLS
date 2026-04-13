@@ -1,0 +1,28 @@
+{
+  "sources": [
+    {
+      "id": "matt-pocock",
+      "description": "Matt Pocock — skills at repo root",
+      "github": "mattpocock/skills",
+      "branch": "main",
+      "local_dir": "community/matt-pocock",
+      "upstream_skills_path": "",
+      "sync_mode": "directories_with_skill_md"
+    },
+    {
+      "id": "leonxlnx-taste",
+      "description": "Leon Lin — Taste Skill bundle under skills/",
+      "github": "Leonxlnx/taste-skill",
+      "branch": "main",
+      "local_dir": "community/leonxlnx",
+      "upstream_skills_path": "skills",
+      "sync_mode": "directories_with_skill_md",
+      "extra_files": [
+        {
+          "upstream_relative": "skills/llms.txt",
+          "local_relative": "llms.txt"
+        }
+      ]
+    }
+  ]
+}
