@@ -23,6 +23,15 @@
           "local_relative": "llms.txt"
         }
       ]
+    },
+    {
+      "id": "supabase",
+      "description": "Supabase agent-skills under skills/",
+      "github": "supabase/agent-skills",
+      "branch": "main",
+      "local_dir": "community/supabase",
+      "upstream_skills_path": "skills",
+      "sync_mode": "directories_with_skill_md"
     }
   ]
 }
