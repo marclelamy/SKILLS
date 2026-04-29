@@ -1,5 +1,5 @@
 ---
-name: multi-debate
+name: multi-turn-debate
 description: Multi-model debate workflow where multiple AI sessions converge on an answer through written files in a shared folder. Each session reads peers' previous-turn files, refines its position, writes its own. Use when the user invokes /multi-debate with a folder path, asks to run a multi-model debate, parallel-model deliberation, or multi-agent consensus building across separate sessions.
 ---
 
