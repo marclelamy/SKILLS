@@ -28,7 +28,6 @@ Use a header when:
 
 - The file is a shared cross-cutting module that callers from multiple transports/layers use (services, runners, contracts, shared types with discriminants).
 - There's a subtle execution-path contract worth stating up front.
-
 Format: short, declarative. 1 line of purpose + 1 short paragraph of context. No tags.
 
 ```ts
