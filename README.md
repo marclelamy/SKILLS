@@ -7,7 +7,7 @@ A collection of custom and community skills for Claude Code and other AI agents.
 ### All skills (recommended for a fresh machine)
 
 ```bash
-npx skills add marclelamy/SKILLS --all --full-depth
+npx skills add marclelamy/SKILLS -g --all --full-depth
 ```
 
 ### Custom skills only
